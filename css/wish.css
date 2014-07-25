@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family: 'Righteous', cursive;
+	color: #666;
+	background-color: #FFFFFF;
+}
+h2 {
+	margin-top: 50px;
+}
+a:link {
+	font-style: italic;
+	color: #F39;
+}
+a:visited {
+	font-style: italic;
+	color: #63F;
+}
+a:hover {
+	font-style: normal;
+	color: #F09;
+}
+img {
+	border: medium double #330A0C;
+}
